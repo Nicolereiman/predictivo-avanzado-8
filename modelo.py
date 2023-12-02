@@ -38,7 +38,6 @@ import geopy
 import geopy.distance as distance
 import shapely.wkt
 from shapely.geometry import LineString, Point
-import geopandas as gpd
 from PIL import Image
 
 
